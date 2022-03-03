@@ -1,0 +1,15 @@
+C:\Users\s_cla\Documents\temp\API-ImageDownloader\bin\Debug\net6.0\API-ImageDownloader.exe
+C:\Users\s_cla\Documents\temp\API-ImageDownloader\bin\Debug\net6.0\API-ImageDownloader.deps.json
+C:\Users\s_cla\Documents\temp\API-ImageDownloader\bin\Debug\net6.0\API-ImageDownloader.runtimeconfig.json
+C:\Users\s_cla\Documents\temp\API-ImageDownloader\bin\Debug\net6.0\API-ImageDownloader.dll
+C:\Users\s_cla\Documents\temp\API-ImageDownloader\bin\Debug\net6.0\API-ImageDownloader.pdb
+C:\Users\s_cla\Documents\temp\API-ImageDownloader\obj\Debug\net6.0\API-ImageDownloader.csproj.AssemblyReference.cache
+C:\Users\s_cla\Documents\temp\API-ImageDownloader\obj\Debug\net6.0\API-ImageDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_cla\Documents\temp\API-ImageDownloader\obj\Debug\net6.0\API-ImageDownloader.AssemblyInfoInputs.cache
+C:\Users\s_cla\Documents\temp\API-ImageDownloader\obj\Debug\net6.0\API-ImageDownloader.AssemblyInfo.cs
+C:\Users\s_cla\Documents\temp\API-ImageDownloader\obj\Debug\net6.0\API-ImageDownloader.csproj.CoreCompileInputs.cache
+C:\Users\s_cla\Documents\temp\API-ImageDownloader\obj\Debug\net6.0\API-ImageDownloader.dll
+C:\Users\s_cla\Documents\temp\API-ImageDownloader\obj\Debug\net6.0\refint\API-ImageDownloader.dll
+C:\Users\s_cla\Documents\temp\API-ImageDownloader\obj\Debug\net6.0\API-ImageDownloader.pdb
+C:\Users\s_cla\Documents\temp\API-ImageDownloader\obj\Debug\net6.0\API-ImageDownloader.genruntimeconfig.cache
+C:\Users\s_cla\Documents\temp\API-ImageDownloader\obj\Debug\net6.0\ref\API-ImageDownloader.dll
